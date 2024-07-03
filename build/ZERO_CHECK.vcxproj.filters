@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\whl\Desktop\My Files\ZJU\Embedded\bme\matrix_0702\wanghoulin_hw1\build\CMakeFiles\43ca24cb53d44079c37f5aa879fa7f58\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66D41C90-C0B7-334D-B054-710C55E066AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
